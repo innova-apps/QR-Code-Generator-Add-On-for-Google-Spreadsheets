@@ -1,5 +1,8 @@
 # QR Code Generator Release Notes
 
+2020-09-23 - version 4.3  
+[Fix for Issue - Output document cannot be opened when using a template](https://github.com/innova-apps/QR-Code-Generator-Add-On-for-Google-Spreadsheets/issues/15)
+
 2019-09-17 - version 2.0.4  
 [Fix for Mac OS browsers for the mapping editor](https://github.com/innova-apps/QR-Code-Generator-Add-On-for-Google-Spreadsheets/issues/7)
 
