@@ -1,5 +1,8 @@
 # QR Code Generator Release Notes
 
+This is support page for QR Code Generator Add-on for Google Spreadsheets:  
+[QR Code Generator in G Suite Marketplace](https://gsuite.google.com/marketplace/app/qr_code_generator/771094986501)
+
 2020-09-23 - version 4.3  
 [Fix for Issue - Output document cannot be opened when using a template](https://github.com/innova-apps/QR-Code-Generator-Add-On-for-Google-Spreadsheets/issues/15)
 
